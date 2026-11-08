@@ -31,7 +31,7 @@ This project uses JavaScript to store student information, calculate grades, dis
 
 ## Getting Started
 
-Open the project in Visual Studio Code and run the JavaScript file according to the assignment instructions.
+Run the program to explore how student records are stored, displayed, filtered and analysed using JavaScript.
 
 ## Author
 
